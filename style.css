@@ -1,1 +1,37 @@
 
+head{
+    background-color: rgb(36, 134, 190);
+}
+
+h2 {
+    margin-left: 275px;
+    margin-top: 95px;
+}
+
+h3 {
+    background-color: aqua;
+    margin-left: 400px;
+    font-size: 25px;
+    margin-top: -45px;
+}
+
+h4 {
+    background-color: blueviolet;
+    margin-left: 515px;
+    margin-top: -53px;
+    font-size: 25px;
+}
+
+h5 {
+    background-color: rgb(148, 36, 129);
+    margin-left: 645px;
+    font-size: 24px;
+    margin-top: -60px;
+}
+
+h6{
+    background-color: brown;
+    font-size: 25px;
+    margin-left: 775px;
+    margin-top: -68px;
+}
